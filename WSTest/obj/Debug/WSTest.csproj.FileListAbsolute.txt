@@ -1,0 +1,7 @@
+C:\Users\mbail\source\repos\WSTest\WSTest\bin\WSTest.dll.config
+C:\Users\mbail\source\repos\WSTest\WSTest\bin\WSTest.dll
+C:\Users\mbail\source\repos\WSTest\WSTest\bin\WSTest.pdb
+C:\Users\mbail\source\repos\WSTest\WSTest\obj\Debug\WSTest.csprojResolveAssemblyReference.cache
+C:\Users\mbail\source\repos\WSTest\WSTest\obj\Debug\WSTest.csproj.CoreCompileInputs.cache
+C:\Users\mbail\source\repos\WSTest\WSTest\obj\Debug\WSTest.dll
+C:\Users\mbail\source\repos\WSTest\WSTest\obj\Debug\WSTest.pdb

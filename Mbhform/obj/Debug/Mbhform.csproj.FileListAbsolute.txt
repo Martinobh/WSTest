@@ -1,0 +1,9 @@
+C:\Users\mbail\source\repos\WSTest\Mbhform\bin\Debug\Mbhform.exe.config
+C:\Users\mbail\source\repos\WSTest\Mbhform\bin\Debug\Mbhform.exe
+C:\Users\mbail\source\repos\WSTest\Mbhform\bin\Debug\Mbhform.pdb
+C:\Users\mbail\source\repos\WSTest\Mbhform\obj\Debug\Mbhform.csprojResolveAssemblyReference.cache
+C:\Users\mbail\source\repos\WSTest\Mbhform\obj\Debug\Mbhform.Properties.Resources.resources
+C:\Users\mbail\source\repos\WSTest\Mbhform\obj\Debug\Mbhform.csproj.GenerateResource.cache
+C:\Users\mbail\source\repos\WSTest\Mbhform\obj\Debug\Mbhform.csproj.CoreCompileInputs.cache
+C:\Users\mbail\source\repos\WSTest\Mbhform\obj\Debug\Mbhform.exe
+C:\Users\mbail\source\repos\WSTest\Mbhform\obj\Debug\Mbhform.pdb
